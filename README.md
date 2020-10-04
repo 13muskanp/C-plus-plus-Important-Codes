@@ -1,4 +1,4 @@
-# C-Important-Codes
+# C plus plus-Important-Codes
 Data structures, math problems, dynamic programming, etc
 
 ## Data Structures
