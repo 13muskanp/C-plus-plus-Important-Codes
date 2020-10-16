@@ -1,7 +1,7 @@
 # C plus plus-Important-Codes
 Data structures, math problems, dynamic programming, etc
 
-## Data Structures
+## [Data Structures](./Data%20Structures)
 ## Dynamic Programming
 ## Math based problems
 ## Others
